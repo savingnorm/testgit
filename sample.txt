@@ -3,3 +3,5 @@ add: register a change in an index
 
 trying on my own..
 trying to make a conflict, to see how it works.
+see how the conflict work, learning merge.
+
