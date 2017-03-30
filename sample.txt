@@ -2,3 +2,4 @@ Git commands even a monkey can understand
 add: register a change in an index
 
 trying on my own..
+see how the conflict work, learning merge.
